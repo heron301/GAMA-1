@@ -1,0 +1,2 @@
+POAM_ID,Control_ID,Weakness_Name,Weakness_Description,Source,Severity,Risk_Rating,Resources_Required,Point_of_Contact,Milestone_1,Milestone_1_Date,Milestone_2,Milestone_2_Date,Scheduled_Completion,Status,Comments
+POAM-001,AC-2,[Weakness],[Description],[Assessment / Scan / Audit],[Critical/High/Moderate/Low],[High/Moderate/Low],[Hours / cost],[Name],[Milestone],[YYYY-MM-DD],[Milestone],[YYYY-MM-DD],[YYYY-MM-DD],[Open/Ongoing/Completed/Risk Accepted],

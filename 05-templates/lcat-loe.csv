@@ -1,0 +1,6 @@
+Task_ID,PWS_Ref,Task_Description,LCAT,Level,Hours_per_FTE_Year,FTE_Base,FTE_OY1,FTE_OY2,FTE_OY3,FTE_OY4,Hours_Base,Hours_OY1,Hours_OY2,Hours_OY3,Hours_OY4,Performer,Notes
+1.0,,Program Management,Program Manager,Senior,1880,1,1,1,1,1,1880,1880,1880,1880,1880,GAMA-1,Key personnel
+1.1,,Quality Assurance,QA Manager,Senior,1880,0.5,0.5,0.5,0.5,0.5,940,940,940,940,940,GAMA-1,ISO 9001 QCP owner
+2.0,,Security and Risk Management,ISSO,Senior,1880,1,1,1,1,1,1880,1880,1880,1880,1880,GAMA-1,RMF / ATO / ConMon
+2.1,,Security Engineering,Cybersecurity Engineer,Journeyman,1880,1,1,1,1,1,1880,1880,1880,1880,1880,,
+3.0,,[Task],[LCAT],[Senior/Journeyman/Junior],1880,,,,,,,,,,,,
