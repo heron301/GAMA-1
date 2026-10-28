@@ -1,0 +1,8 @@
+# Copy this file into the vault root as .gitignore
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+.DS_Store
+Thumbs.db
+desktop.ini

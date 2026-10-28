@@ -13,6 +13,7 @@ GAMA-1 Technologies, LLC uses this library to win federal IT work faster. It hol
 | [`04-boilerplate/`](04-boilerplate/) | Reusable narrative blocks for common evaluation topics |
 | [`05-templates/`](05-templates/) | Solicitation outline, SWOT/Go-No-Go, LCAT/LOE, POA&M, scoring rubric, RFI response |
 | [`06-pipeline/`](06-pipeline/) | Active opportunity tracker |
+| [`claude-config/`](claude-config/) | Shared Claude Code config and Obsidian sync setup for all machines |
 | [`CLAUDE.md`](CLAUDE.md) | Style guide and workflow rules for AI-assisted drafting |
 
 ## How to use

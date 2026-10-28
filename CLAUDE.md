@@ -44,6 +44,7 @@ Source of truth for company data: `00-company/`. Source of truth for certificati
 | `04-boilerplate/` | Reusable narrative blocks (Zero Trust, ATO/RMF, ITSM, DevSecOps, AI, QMS, 508) |
 | `05-templates/` | Solicitation outline, SWOT/Go-No-Go, LCAT/LOE, POA&M, scoring rubric, RFI response |
 | `06-pipeline/` | Active opportunity tracker |
+| `claude-config/` | Shared Claude Code config for all machines (see its README) |
 
 ## Standard workflows
 
