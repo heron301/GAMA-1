@@ -45,6 +45,7 @@ Source of truth for company data: `00-company/`. Source of truth for certificati
 | `05-templates/` | Solicitation outline, SWOT/Go-No-Go, LCAT/LOE, POA&M, scoring rubric, RFI response |
 | `06-pipeline/` | Active opportunity tracker |
 | `claude-config/` | Shared Claude Code config for all machines (see its README) |
+| `tools/meeting-transcriber/` | Offline meeting transcription MCP server for Claude Desktop |
 
 ## Standard workflows
 
